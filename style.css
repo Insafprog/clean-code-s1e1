@@ -38,13 +38,17 @@ ul {
   margin: 0;
   padding: 0px;
 }
-li, h3 {
+li,
+h3 {
   list-style: none;
 }
-input,button{
+input,
+button {
   outline: none;
 }
-.add, .delete, .edit {
+.add,
+.delete,
+.edit {
   background: none;
   border: 0px;
   color: #888;
@@ -53,7 +57,9 @@ input,button{
   font-family: Lato, sans-serif;
   cursor: pointer;
 }
-.add:hover, .delete:hover, .edit:hover {
+.add:hover,
+.delete:hover,
+.edit:hover {
   color: #3a3A3a;
 }
 /* Heading */
